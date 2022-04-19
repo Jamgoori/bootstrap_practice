@@ -1,1 +1,1 @@
-# bootstrap_practice
+# 부트스트랩을 통한 사이트제작 연습 
